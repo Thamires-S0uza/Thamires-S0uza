@@ -1,6 +1,6 @@
 ### Olá, eu sou Thamires-S0uza 👋
 
-<div alint="center">
+<div align="center">
   <a href="https://github.com/Thamires-S0uza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamires-S0uza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamires-S0uza&layout=compact&langs_count=7&theme=dark"/>
