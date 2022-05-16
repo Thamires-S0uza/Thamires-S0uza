@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou Thamires-S0uza 👋
+  👋 Olá, eu sou Thamires de Souza 👋
 </h1>
 <div align="center">
   <a href="https://github.com/Thamires-S0uza">
