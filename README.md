@@ -1,5 +1,6 @@
-### Olá, eu sou Thamires-S0uza 👋
-
+<h1 align="center">
+  Olá, eu sou Thamires-S0uza 👋
+</h1>
 <div align="center">
   <a href="https://github.com/Thamires-S0uza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamires-S0uza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
