@@ -15,7 +15,7 @@
   <img align="center" alt="Tha-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Tha-Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Tha-Figma" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/7c6e1f6046b560fe631564f89529fe40.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="[https://i.picasion.com/pic92/7c6e1f6046b560fe631564f89529fe40.gif](https://cdn.discordapp.com/attachments/976853929713344602/976884398899232778/avatar.gif)">
 </div>
   
   ##
