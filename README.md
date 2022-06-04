@@ -3,7 +3,8 @@
 </h1>
 <div align="center">
   <a href="https://github.com/Thamires-S0uza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamires-S0uza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamires-S0uza&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamires-S0uza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamires-S0uza&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Tha-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -14,7 +15,7 @@
   <img align="center" alt="Tha-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Tha-Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Tha-Figma" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="right" alt="Tha-Gif" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/976853929713344602/976884398899232778/avatar.gif">
+  <img align="right" alt="Tha-Gif" height="150" style="border-radius:50px;"src="https://user-images.githubusercontent.com/51200613/172025023-d98f80db-4049-41e9-992d-21b172945186.gif">
 </div>
   
   ##
