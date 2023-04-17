@@ -17,7 +17,7 @@
   <img align="center" alt="Tha-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Tha-Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Tha-Figma" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="right" alt="Tha-Gif" height="150" style="border-radius:50px;"src="https://user-images.githubusercontent.com/51200613/172025023-d98f80db-4049-41e9-992d-21b172945186.gif">
+  <img align="right" alt="Tha-Gif" height="150" style="border-radius:50px;"src="https://user-images.githubusercontent.com/51200613/232462776-f16a3337-cb80-43e0-a5dc-6979e3f2f341.gif">
 </div>
   
   ##
